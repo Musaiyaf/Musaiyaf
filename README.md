@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Musaiyaf
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning coding languages 
-- 💞️ I’m looking to collaborate on love
+- 💞️ I’m looking to collaborate on mind
 - 📫 How to reach me 
 - 😄 Pronouns🤙
 - ⚡ Fun fact🏈
