@@ -1,64 +1,53 @@
-# 🛠️ Microcontroller Programmer
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">🔧 Embedded Systems & Microcontroller Programmer</h3>
 
-Welcome to my personal microcontroller programming portfolio!  
-Here you'll find my favorite projects, code samples, and best practices for embedded systems development.  
-I specialize in bringing hardware to life with elegant, efficient, and robust code.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
-
-## 👨‍💻 About Me
-
-- **Microcontroller Enthusiast**
-- Experienced with **Arduino, STM32, PIC, AVR, and ESP series**
-- Passionate about hardware interfacing, real-time systems, and creative prototyping
-
-## 🚀 What’s Inside
-
-- **Sample Codes:** Ready-to-use snippets for common microcontroller tasks
-- **Project Walkthroughs:** Step-by-step guides with circuit diagrams
-- **Tips & Tricks:** Pro-tips for debugging, optimizing, and scaling
-- **Resource Links:** My go-to datasheets, tools, and documentation
-
-## 🧰 Tech Stack
-
-- C / C++
-- Embedded Assembly (when needed)
-- Arduino IDE, PlatformIO, STM32CubeIDE, MPLAB X
-- Logic Analyzers, Oscilloscopes, Multimeters
-
-## 📦 Example Structure
-
-```
-/project-name
-  /src
-  /include
-  README.md
-  schematic.pdf
-```
-
-## 💡 Get Started
-
-1. Browse the `/project-name` folders
-2. Open the project README for details
-3. Adapt the code and hardware setup for your needs
-
-## 🤝 Contribute & Connect
-
-Feel free to fork, star, or open issues for discussion!  
-I’m always open to collaboration and new ideas.
+- 🛠️ I specialize in low-level firmware and embedded systems
+- 💡 Passionate about C/C++, bare-metal programming, and real-time systems
+- ⚡ Skilled with ARM, AVR, ESP32, STM32, and Arduino platforms
+- 🧠 Currently learning: RTOS, Embedded Linux, and Rust for embedded
+- 🔭 Working on: **Sensor networks and IoT automation**
+- 📝 I write clean, portable, and efficient code for microcontrollers
 
 ---
 
-> **"Programming microcontrollers is not just coding—it's art at the intersection of hardware and imagination."**
+### 🧰 Tech Stack
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-FF4301?style=flat-square&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-326CE5?style=flat-square&logo=freertos&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-1E1E1E?style=flat-square&logo=platformio&logoColor=orange)
 
 ---
 
-### 📫 Let’s Connect
+### 📊 GitHub Stats
 
-- [LinkedIn](#) | [Twitter](#) | [GitHub](#)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%"/>
+</div>
 
 ---
 
-#### License
+### 🚀 Featured Projects
 
-Open-sourced under the MIT License.
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=tokyonight)](https://github.com/your-username/your-repo)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-other-repo&theme=tokyonight)](https://github.com/your-username/your-other-repo)
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
